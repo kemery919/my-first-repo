@@ -2,3 +2,5 @@
 This is my first GitHub repository.
 
 Changed added for lab 2
+
+Second changed added for lab 2 during feature-branch
